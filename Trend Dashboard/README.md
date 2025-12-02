@@ -30,7 +30,7 @@
 ### 1. 安装依赖
 
 ```bash
-cd "C:\Users\13641\Desktop\Cursor\Trend Dashboard"
+cd "C:\Users\Trend Dashboard"
 npm install
 ```
 
@@ -136,7 +136,7 @@ MIT License
 
 ---
 
-**项目位置**: `C:\Users\13641\Desktop\Cursor\Trend Dashboard`
 
 享受使用 Trend Dashboard！🎊
+
 
